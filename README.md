@@ -1,6 +1,6 @@
 # Dice Rolling Game 🎲
 
-This is a simple Python-based dice rolling game where players roll a die, and the outcome is displayed on the terminal. It includes two main files:
+This is a simple Python-based dice-rolling game where players roll a die, and the outcome is displayed on the terminal. It includes two main files:
 
 1. `dice_rolling_game.py`: The core game logic for rolling the dice and displaying the result.
 2. `map_of_game.py`: A guideline (map) explaining what to write in each line of the game code, with comments to make it easier to follow.
@@ -33,8 +33,6 @@ Below is an example of what you'll see in the terminal after running the game:
 
 ![Dice Rolling Game Terminal Output](assets/terminal-output.png)
 
-*(You can add a screenshot of your terminal output to the `assets` folder and reference it here.)*
-
 ## File Structure
 
 ```
@@ -55,8 +53,8 @@ The game is structured as follows:
 - **map_of_game.py**: Step-by-step breakdown of the game code with comments on what each section does.
 
 ## Future Improvements
-- Add a multi-player feature to keep track of scores.
-- Allow the user to choose the number of sides on the die.
+- Modify the program so the user can specify how many dice they want to roll. 
+- Add a feature that keeps track of how many times the user has rolled the dice during the session. This will require a counter that increments each time the dice are rolled.
 
 ## Contribution
 Feel free to fork this project and contribute! You can submit a pull request if you want to suggest any improvements.
