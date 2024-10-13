@@ -35,7 +35,7 @@ This is a simple Python-based dice rolling game where players roll a die, and th
 
 Below is an example of what you'll see in the terminal after running the game:
 
-![Dice Rolling Game Terminal Output](./assets/terminal-output.png)
+![Dice Rolling Game Terminal Output](assets/terminal-output.png)
 
 
 *(You can add a screenshot of your terminal output to the `assets` folder and reference it here.)*
